@@ -1,0 +1,6 @@
+framework module Pods_eSentralTestTests {
+  umbrella header "Pods-eSentralTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
